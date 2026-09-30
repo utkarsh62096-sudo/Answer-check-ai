@@ -1,0 +1,6 @@
+{
+  "name": "AnswerCheck AI",
+  "description": "An AI-powered CBSE answer evaluation and improvement tool for Class 9-10 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
